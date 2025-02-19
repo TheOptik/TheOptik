@@ -1,25 +1,25 @@
 <svg viewBox="0 25 600 400" width="600" height="400" xmlns="http://www.w3.org/2000/svg">
-<rect fill="#f6f8fa" width="600" height="425"></rect>
+<rect fill="#1e2229" width="600" height="425"></rect>
 <foreignObject width="100%" height="100%">
 <div xmlns="http://www.w3.org/1999/xhtml">
-<pre>
-<span style="color:red"           >                  |            </span>      Simon Hümmer
+<pre style="color:#17a889">
+<span style="color:red"           >                  |            </span>      <b style="color:red">Simon Hümmer</b>
 <span style="color:red"           >                 ||            </span>      ----------------------------------
-<span style="color:red"           >               |||             </span>      Project: Life
-<span style="color:red"           >             ||||    ||        </span>      HEAD: 0a5981119 (main)
-<span style="color:red"           >           ||||| ||||          </span>      Version: 3.0.0
-<span style="color:red"           >          ||||  |||            </span>      Created: 30 years ago
-<span style="color:red"           >         ||||  |||             </span>      Languages:                           
+<span style="color:red"           >               |||             </span>      <b style="color:red">Project:</b> Life
+<span style="color:red"           >             ||||    ||        </span>      <b style="color:red">HEAD:</b> 0a5981119 (main)
+<span style="color:red"           >           ||||| ||||          </span>      <b style="color:red">Version:</b> 3.0.0
+<span style="color:red"           >          ||||  |||            </span>      <b style="color:red">Created:</b> 30 years ago
+<span style="color:red"           >         ||||  |||             </span>      <b style="color:red">Languages:</b>                           
 <span style="color:red"           >         |||    |||            </span>                 ● Java (37.2 %) ● Kotlin (34.6 %)
 <span style="color:red"           >          |||    |||           </span>                 ● Typescript (28.2 %)
-<span style="color:red"           >            ||    ||           </span>      Authors: 50% Andreas Hümmer 23
+<span style="color:red"           >            ||    ||           </span>      <b style="color:red">Authors:</b> 50% Andreas Hümmer 23
 <span style="color:red"           >              |   |            </span>               50% Elisabeth Hümmer 23
-<span style="color:cornflowerblue">   ####               #    ##  </span>      Last change: 2 hours ago
-<span style="color:cornflowerblue">    ################       ##  </span>      Contributors: 27
-<span style="color:cornflowerblue">       #                   ##  </span>      URL: http://theoptik.de/               
-<span style="color:cornflowerblue">      ################   ###   </span>      Commits: 19386
-<span style="color:cornflowerblue">                               </span>      Lines of code: 1759689
-<span style="color:cornflowerblue">       ##############          </span>      Size: 736.57 MiB (23 files)
+<span style="color:cornflowerblue">   ####               #    ##  </span>      <b style="color:red">Last change:</b> 2 hours ago
+<span style="color:cornflowerblue">    ################       ##  </span>      <b style="color:red">Contributors:</b> 27
+<span style="color:cornflowerblue">       #                   ##  </span>      <b style="color:red">URL:</b> http://theoptik.de/               
+<span style="color:cornflowerblue">      ################   ###   </span>      <b style="color:red">Commits:</b> 19386
+<span style="color:cornflowerblue">                               </span>      <b style="color:red">Lines of code:</b> 1759689
+<span style="color:cornflowerblue">       ##############          </span>      <b style="color:red">Size:</b> 736.57 MiB (23 files)
 <span style="color:cornflowerblue">####      #######          #   </span>
 <span style="color:cornflowerblue">#####                   ####   </span>
 <span style="color:cornflowerblue">   #####################      #</span>
@@ -28,4 +28,12 @@
 </pre>
 </div>
 </foreignObject>
+<foreignObject x="0" y="395" width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml"  >
+<pre style="color:white;background-color:#008787;display:inline-block;padding-right:0.5em">📁 ~/ git@0a5981119 &gt;</pre>
+</div>
+</foreignObject>
+<rect fill="red" stroke="#17a889" x="160" y="406" width="10" height="18">
+<animate attributeType="XML" attributeName="fill" values="#008787;#17a889;" dur="1.5s" repeatCount="indefinite"/>
+</rect>
 </svg>
